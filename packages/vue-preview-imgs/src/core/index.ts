@@ -2,7 +2,7 @@
 // @ts-ignore
 import PhotoSwipeLightbox from 'photoswipe/lightbox';
 import { PhotoSwipeOptions } from 'photoswipe';
-import 'photoswipe/style.css';
+// import 'photoswipe/style.css';
 
 export const setGallery = (
   options: PhotoSwipeOptions = {},
