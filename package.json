@@ -1,6 +1,6 @@
 {
   "name": "vue-preview-imgs",
-  "version": "2.0-nuxt",
+  "version": "3.0.0",
   "description": "A picture preview plugin for the Vue3",
   "repository": {
     "type": "git",
